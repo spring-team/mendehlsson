@@ -1,5 +1,7 @@
 # mendehlsson
 
+[![Build Status](https://travis-ci.org/spring-team/mendehlsson.svg?branch=master)](https://travis-ci.org/spring-team/mendehlsson)
+
 This project contains my new project.
 
 ## Development
